@@ -1,0 +1,2 @@
+config = "--oem 3 --psm 12"
+works for image1 and font1 but not so accurate for font1

@@ -1,0 +1,66 @@
+
+--- OCR Output for Config: --oem 3 --psm 6 -l eng ---
+oy
+Every saint has a past, and
+every sinner has a future,
+
+--- OCR Output for Config: --oem 3 --psm 11 -l eng ---
+oy
+
+Every saint has a past, and
+
+every sinner has a future.
+
+a
+
+nee
+
+--- OCR Output for Config: --oem 3 --psm 3 -l eng ---
+oy
+
+Every saint has a past, and
+every sinner has a future,
+
+--- OCR Output for Config: --oem 3 --psm 12 -l eng ---
+oy
+
+Every saint has a past, and
+
+every sinner has a future.
+
+a
+
+nee
+
+--- OCR Output for Config: --oem 1 --psm 6 -l eng ---
+oy
+Every saint has a past, and
+every sinner has a future,
+
+--- OCR Output for Config: --oem 1 --psm 11 -l eng ---
+oy
+
+Every saint has a past, and
+
+every sinner has a future.
+
+a
+
+nee
+
+--- OCR Output for Config: --oem 1 --psm 3 -l eng ---
+oy
+
+Every saint has a past, and
+every sinner has a future,
+
+--- OCR Output for Config: --oem 1 --psm 12 -l eng ---
+oy
+
+Every saint has a past, and
+
+every sinner has a future.
+
+a
+
+nee
